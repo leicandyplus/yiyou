@@ -1,0 +1,270 @@
+@charset "utf-8";
+
+.yy_fruit{
+	height: 490px;
+	width: 1060px;
+	margin: 20px auto;
+}
+
+.yy_fruit .yy_fruwords{
+	height: 40px;
+	width: 1060px;
+	border-bottom: 2px solid #ff734b;
+}
+
+.yy_fruit .yy_fruwords b{
+	display: inline-block;
+	height: 40px;
+	width: 100px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	margin-left: 5px;
+}
+
+.yy_fruit .yy_fruwords small{
+	display: inline-block;
+	height: 40px;
+	width: 150px;
+	line-height: 40px;
+	font-size: 12px;
+	margin-left: 5px;
+}
+
+.yy_fruit .yy_fruwords .bar{
+	display: inline-block;
+	height: 22px;
+	width: 29px;
+	position: relative;
+	top: 6px;
+	left: 5px;
+}
+
+.yy_fruit .yy_fruwords .yy_fruicon1{
+	background: url(../images/menu01-1.png) no-repeat;
+}
+
+
+
+/*图片和文字说明*/
+.yy_fruit .yy_frupic1{
+	width: 1060px;
+	height: 450px;
+}
+
+
+/*左1*/
+.yy_fruit .yy_frupic1 .fig1{
+	display: inline-block;
+	background: url(../images/fruit_01.jpg) no-repeat;
+	width: 260px;
+	height: 450px;
+	position: relative;
+}
+
+.yy_fruit .yy_frupic1 .fig1 b{
+	font-size: 34px;
+	color: #fff;
+	position: absolute;
+	top: 20px;
+	left: 50px;
+}
+
+.yy_fruit .yy_frupic1 .fig1 p{
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+.yy_fruit .yy_frupic1 .fig1 span{
+	color: #fff;
+	font-size: 20px;
+	position: absolute;
+	top: 105px;
+	left: 50px;
+}
+
+.yy_fruit .yy_frupic1 .fig1 strong{
+	color: red;
+	font-size: 34px;
+}
+
+.yy_fruit .yy_frupic1 .yy_frulink{
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	background: #fff;
+	border-radius: 20px;
+	position: absolute;
+	top: 370px;
+	left: 40px;
+}
+
+.yy_fruit .yy_frupic1 .yy_frulink a{
+	color: #e85256;
+}
+
+.yy_fruit .yy_frupic1 .yy_frulink a:hover{
+	color: #fff;
+}
+
+.yy_fruit .yy_frupic1 .yy_frulink:hover{
+	background: #a50a0d;
+}
+
+/*左2*/
+.yy_fruit .yy_frupic1 .fig2{
+	display: inline-block;
+	background: url(../images/fruit_02.jpg) no-repeat;
+	width: 400px;
+	height: 225px;
+	position: relative;
+	top: -225px;
+	left: -4px;
+}
+
+.yy_fruit .yy_frupic1 .fig2 b{
+	font-size: 28px;
+	color: #833836;
+	position: absolute;
+	top: 15px;
+	left: 10px;
+}
+
+.yy_fruit .yy_frupic1 .fig2 p{
+	color: #a1a1a1;
+	font-size: 14px;
+	position: absolute;
+	top: 60px;
+	left: 10px;
+}
+
+.yy_fruit .yy_frupic1 .fig2 span{
+	color: #a1a1a1;
+	font-size: 16px;
+	position:absolute;
+	top: 90px;
+	left: 10px;
+}
+
+.yy_fruit .yy_frupic1 .fig2 strong{
+	color: red;
+}
+
+/*左3*/
+.yy_fruit .yy_frupic1 .fig3{
+	display: inline-block;
+	width: 198px;
+	height: 223px;
+	position: relative;
+	top: -251px;
+	left: -10px;
+	border: 1px solid #d1d1d1;
+}
+
+.yy_frupic1 .fig3 b{
+	font-size: 12px;
+	margin-left: 15px;
+}
+
+.yy_frupic1 .fig3 p{
+	font-size: 12px;
+	margin-left: 15px;
+	color: #646464;
+}
+
+.yy_frupic1 .fig3 span{
+	font-size: 12px;
+	margin-left: 40px;
+	text-decoration: line-through;
+	color: #646464;
+}
+
+.yy_frupic1 .fig3 strong{
+	font-size: 16px;
+	color: red;
+	margin-left: 15px;
+
+}
+
+.yy_fruit .yy_frupic1 .fig4{
+	display: inline-block;
+	width: 198px;
+	height: 223px;
+	position: relative;
+	top: -476px;
+	left: 858px;
+	border: 1px solid #d1d1d1;
+}
+
+.yy_frupic1 .fig4 b{
+	font-size: 12px;
+	margin-left: 15px;
+}
+
+.yy_frupic1 .fig4 p{
+	font-size: 12px;
+	margin-left: 15px;
+	color: #646464;
+}
+
+.yy_frupic1 .fig4 span{
+	font-size: 12px;
+	margin-left: 40px;
+	text-decoration: line-through;
+	color: #646464;
+}
+
+.yy_frupic1 .fig4 strong{
+	font-size: 16px;
+	color: red;
+	margin-left: 15px;
+
+}
+
+.yy_fruit .yy_frupic1 .fig5{
+	display: inline-block;
+	width: 198px;
+	height: 223px;
+	margin-left: -5px;
+	position: relative;
+	top: -252px;
+	left: 60px;
+	border: 1px solid #d1d1d1;
+	/*box-sizing: border-box;*/
+}
+
+.yy_frupic1 .fig5 b{
+	font-size: 12px;
+	margin-left: 15px;
+}
+
+.yy_frupic1 .fig5 p{
+	font-size: 12px;
+	margin-left: 15px;
+	color: #646464;
+}
+
+.yy_frupic1 .fig5 span{
+	font-size: 12px;
+	margin-left: 40px;
+	text-decoration: line-through;
+	color: #646464;
+}
+
+.yy_frupic1 .fig5 strong{
+	font-size: 16px;
+	color: red;
+	margin-left: 15px;
+
+}
+
+
+
+
+
+

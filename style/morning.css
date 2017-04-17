@@ -1,0 +1,204 @@
+@charset "utf-8";
+
+.yy_morning{
+	/*overflow: auto;
+	zoom:1;*/
+	height: 410px;
+	width: 1060px;
+	margin: 10px auto;
+}
+
+.yy_morning .yy_mtop{
+	height: 60px;
+	width: 1060px;
+	margin: 0 auto;
+}
+/*左上角*/
+.yy_morning .yy_mtopl{
+	display: inline-block;
+	width: 530px;
+	height: 60px;
+	background: #308e00;
+}
+
+.yy_morning .yy_mtopl p{
+	display: inline-block;
+	color: #fff;
+	font-size: 20px;
+	line-height: 30px;
+	height: 30px;
+	width: 100px;
+	text-align: center;
+}
+
+.yy_morning .yy_mtopl #a{
+	position: relative;
+	top: -13px;
+	left: 25px;
+}
+
+.yy_morning .yy_mtopl #b{
+	position: relative;
+	top: 17px;
+	left: -80px;
+}
+
+.yy_morning .yy_mtopl span{
+	display: inline-block;
+	width: 390px
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+}
+
+.yy_morning .yy_mtopl time{
+	display: inline-block;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	width: 40px;
+	border-radius:20px;
+	background: #fff; 
+	font-size: 24px;
+	color: #308e00;
+	margin: auto 5px;
+}
+
+
+/*右上角*/
+.yy_morning .yy_mtopr{
+	display: inline-block;
+	width: 530px;
+	height: 60px;
+	background: #d1d1d1;
+	position: relative;
+	top: -60px;
+	left: 530px;
+}
+
+.yy_morning .yy_mtopr p{
+	color: #707070;
+	font-size: 20px;
+	line-height: 30px;
+	height: 30px;
+	width: 530px;
+	text-align: center;
+}
+
+
+
+/*图片和文字说明部分*/
+.yy_morning .yy_mbottom{
+	width: 1060px;
+	height: 350px;
+	margin: 1px auto;
+}
+
+.yy_morning .yy_mbottom .yy_mb1{
+	display: inline-block;
+	border: 1px solid #d1d1d1;
+	border-collapse: collapse;
+	width: 210px;
+	height: 350px;
+	margin-right: -5px;
+	margin-top: -2px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 img{
+	margin: 10px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 figcaption{
+	font-size: 12px;
+	text-align: left;
+	/*line-height: 1.5em;*/
+	/*padding: 7px 0 5px 0;*/
+	margin:0 15px 5px 15px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .price small{
+	display: block;
+	color: #999;
+	font-size: 12px;
+	margin: 5px 15px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .price strong{
+	color: red;
+	font-size: 18px;
+	margin: 5px 15px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .price span{
+	text-decoration: line-through;
+	color: #999;
+	font-size: 18px;
+	margin-left: 15px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .price p{
+	color: #999;
+	font-size: 14px;
+	/*margin-left: 15px;*/
+	margin: 15px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .price time{
+	color: red;
+	font-size: 14px;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .buy{
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid #d1d1d1;
+	font-size: 14px;
+	margin: 20px auto;
+}
+
+.yy_morning .yy_mbottom .yy_mb1:hover{
+	border: 1px solid red;
+	position: relative;
+}
+
+.yy_morning .yy_mbottom .yy_mb1 .buy:hover,.yy_morning .yy_mbottom .yy_mb1 a:hover{
+	background: #fe5151;
+	color: #fff;
+}
+
+.yy_morning .yy_mbottom .other1 .buy{
+	color: #fff;
+	border: none;
+	background: #fe5151;
+}
+
+
+/*朦版*/
+.yy_morning .yy_mbottom .mengban{
+	background: rgba(0,0,0,.4);
+	display: inline-block;
+	width: 210px;
+	height: 350px;
+	position: relative;
+	top: -351px;
+	left: 847px;
+}
+
+.yy_morning .yy_mbottom .mengban .no{
+	display: inline-block;
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 14px;
+	color: #919191;
+	background: #444;
+	position: absolute;
+	top: 90px;
+	left: 60px;
+}
+

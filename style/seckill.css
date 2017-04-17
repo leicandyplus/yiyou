@@ -1,0 +1,133 @@
+@charset "utf-8";
+
+.yy_seckill{
+	height: 430px;
+	width: 100%;
+	background: #ffef9f;
+	margin: 20px 0;
+}
+
+.yy_seckill .yy_secwords{
+	height: 50px;
+}
+
+.yy_seckill .yy_secwords b{
+	margin-left: 130px;
+	display: inline-block;
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	/*font-weight: bold;*/
+	font-size: 20px;
+}
+
+.yy_seckill .yy_secwords small{
+	display: inline-block;
+	width: 300px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 14px;
+}
+
+.yy_seckill .yy_secpicture{
+	width: 1060px;
+	height: 380px;
+	margin: 0 auto;
+}
+
+.yy_seckill .yy_secpicture figure{
+	display: inline-block;
+	width: 250px;
+	height: 362px;
+	background: #ffce5d;
+	margin: 0 5px;
+}
+
+.yy_seckill .yy_secpicture p{
+	width: 200px;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 20px;
+	color: #946c21;
+	font-size: 12px;
+}
+
+.yy_seckill .yy_secpicture .yy_secps{
+	width: 200px;
+	height: 40px;
+	line-height: 40px;
+	color: #434e41;
+	font-size: 14px;
+}
+
+.yy_seckill .yy_secpicture span{
+	color: #ff6311;
+	font-size: 14px;
+}
+
+.yy_seckill .yy_secpicture .yy_secpp{
+	color: #fd0100;
+	font-size: 20px;
+}
+
+.yy_seckill .yy_secpicture .want{
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid #fff;
+	background: #ff9a35;
+	margin-left: 120px;
+}
+
+.yy_seckill .yy_secpicture .want a{
+	font-size: 14px;
+	color: #fff;
+}
+
+.yy_seckill .yy_secpicture .want:hover{
+	background: #ff5012;
+}
+
+.yy_seckill .yy_secpicture .special{
+	position: relative;
+	top: -511px;
+	left: 800px;
+}
+
+
+/*朦版*/
+.yy_seckill .yy_secpicture .mengban1{
+	display: inline-block;
+	width: 250px;
+	height: 362px;
+	line-height: 362px;
+	text-align: center;
+	background: rgba(0,0,0,.4);
+	position: relative;
+	top: -149px;
+	left: -260px;
+}
+
+.yy_seckill .yy_secpicture .mengban1 .no1{
+	display: inline-block;
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 14px;
+	color: #919191;
+	background: #444;
+}
+
+
+
+
+.yy_adver{
+	height: 100px;
+	width: 1060px;
+	margin: 20px auto;
+}
+
+

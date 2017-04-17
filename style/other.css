@@ -1,0 +1,203 @@
+@charset "utf-8";
+
+/*蔬菜 */
+/*小图标*/
+.yy_fruit .yy_fruwords .yy_fruicon1-1{
+	background: url(../images/menu02-1.png) no-repeat;
+}
+/*左大图*/
+.yy_fruit .yy_frupic1 .fig1-1{
+	background: url(../images/veg01.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig1-1 strong{
+	color: #7c5895;
+	font-size: 34px;
+}
+.yy_fruit .yy_frupic1 .fig1-1 .yy_frulink a{
+	color: #7c5895;
+}
+.yy_fruit .yy_frupic1 .fig1-1 .yy_frulink a:hover{
+	color: #fff;
+}
+.yy_fruit .yy_frupic1 .fig1-1 .yy_frulink:hover{
+	background: #659305;
+}
+/*左二图*/
+.yy_fruit .yy_frupic1 .fig2-1{
+	background: url(../images/veg02.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig2-1 b{
+	color: #855600;
+}
+
+
+
+/*肉类*/
+/*小图标*/
+.yy_fruit .yy_fruwords .yy_fruicon1-2{
+	background: url(../images/menu03-1.png) no-repeat;
+}
+/*左大图*/
+.yy_fruit .yy_frupic1 .fig1-2{
+	background: url(../images/meat_01.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig1-2 strong{
+	color: #e1344b;
+	font-size: 34px;
+}
+.yy_fruit .yy_frupic1 .fig1-2 .yy_frulink a{
+	color: #f0364c;
+}
+.yy_fruit .yy_frupic1 .fig1-2 .yy_frulink a:hover{
+	color: #fff;
+}
+.yy_fruit .yy_frupic1 .fig1-2 .yy_frulink:hover{
+	background: #fa5769;
+}
+/*左二图*/
+.yy_fruit .yy_frupic1 .fig2-2{
+	background: url(../images/meat_02.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig2-2 b{
+	color: #ec772a;
+}
+
+
+/*海鲜*/
+/*小图标*/
+.yy_fruit .yy_fruwords .yy_fruicon1-3{
+	background: url(../images/menu04-1.png) no-repeat;
+}
+/*左大图*/
+.yy_fruit .yy_frupic1 .fig1-3{
+	background: url(../images/seafood01.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig1-3 strong{
+	color: #0188f7;
+	font-size: 34px;
+}
+.yy_fruit .yy_frupic1 .fig1-3 .yy_frulink a{
+	color: #0087f3;
+}
+.yy_fruit .yy_frupic1 .fig1-3 .yy_frulink a:hover{
+	color: #fff;
+}
+.yy_fruit .yy_frupic1 .fig1-3 .yy_frulink:hover{
+	background: #42b0c4;
+}
+/*左二图*/
+.yy_fruit .yy_frupic1 .fig2-3{
+	background: url(../images/seafood02.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig2-3 b{
+	color: #0fa6ba;
+}
+
+
+/*速冻食品*/
+/*小图标*/
+.yy_fruit .yy_fruwords .yy_fruicon1-4{
+	background: url(../images/menu05-1.png) no-repeat;
+}
+/*左大图*/
+.yy_fruit .yy_frupic1 .fig1-4{
+	background: url(../images/frozen01.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig1-4 strong{
+	color: #fff;
+	font-size: 34px;
+}
+.yy_fruit .yy_frupic1 .fig1-4 .yy_frulink a{
+	color: #848484;
+}
+.yy_fruit .yy_frupic1 .fig1-4 .yy_frulink a:hover{
+	color: #fff;
+}
+.yy_fruit .yy_frupic1 .fig1-4 .yy_frulink:hover{
+	background: #d6996c;
+}
+/*左二图*/
+.yy_fruit .yy_frupic1 .fig2-4{
+	background: url(../images/frozen02.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig2-4 b{
+	color: #f46c2d;
+}
+
+
+/*饮料甜品*/
+/*小图标*/
+.yy_fruit .yy_fruwords .yy_fruicon1-5{
+	background: url(../images/menu06-1.png) no-repeat;
+}
+/*左大图*/
+.yy_fruit .yy_frupic1 .fig1-5{
+	background: url(../images/drink1.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig1-5 strong{
+	color: #b60329;
+}
+.yy_fruit .yy_frupic1 .fig1-5 b{
+	color: #ff6476;
+}
+.yy_fruit .yy_frupic1 .fig1-5 p{
+	color: #ff6476;
+}
+.yy_fruit .yy_frupic1 .fig1-5 span{
+	color: #ff6476;
+}
+.yy_fruit .yy_frupic1 .fig1-5 .yy_frulink a{
+	color: #f46470;
+}
+.yy_fruit .yy_frupic1 .fig1-5 .yy_frulink a:hover{
+	color: #fff;
+}
+.yy_fruit .yy_frupic1 .fig1-5 .yy_frulink:hover{
+	background: #ff6570;
+}
+/*左二图*/
+.yy_fruit .yy_frupic1 .fig2-5{
+	background: url(../images/drink2.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig2-5 b{
+	color: #919191;
+}
+
+
+/*杂粮*/
+/*小图标*/
+.yy_fruit .yy_fruwords .yy_fruicon1-6{
+	background: url(../images/menu07-1.png) no-repeat;
+}
+/*左大图*/
+.yy_fruit .yy_frupic1 .fig1-6{
+	background: url(../images/rice1.png) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig1-6 strong{
+	color: #96b400;
+}
+.yy_fruit .yy_frupic1 .fig1-6 b{
+	color: #2a5a00;
+}
+.yy_fruit .yy_frupic1 .fig1-6 p{
+	color: #2a5a00;
+}
+.yy_fruit .yy_frupic1 .fig1-6 span{
+	color: #2a5a00;
+}
+.yy_fruit .yy_frupic1 .fig1-6 .yy_frulink a{
+	color: #9fbb13;
+}
+.yy_fruit .yy_frupic1 .fig1-6 .yy_frulink a:hover{
+	color: #fff;
+}
+.yy_fruit .yy_frupic1 .fig1-6 .yy_frulink:hover{
+	background: #92b52e;
+}
+/*左二图*/
+.yy_fruit .yy_frupic1 .fig2-6{
+	background: url(../images/rice2.jpg) no-repeat;
+}
+.yy_fruit .yy_frupic1 .fig2-6 b{
+	color: #e4602d;
+}
